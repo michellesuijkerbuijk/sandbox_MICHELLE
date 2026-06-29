@@ -4,3 +4,4 @@ branch = an independent line of development within a Git repository. Each branch
 merge = the process of combining the changes from one branch into another branch. Git records the integration in the repository history
 branch/feature = adds new functionality
 branch/hotfix = urgent production fix
+reset = to undo a commit and walk back in time
