@@ -2,4 +2,4 @@ commit = a data object which contains the changes made to the repository, the au
 version control = a system that records changes to a file or set of files over time so that you can recall specific versions later
 branch = an independent line of development within a Git repository. Each branch can contain its own commits and changes without affecting other branches
 merge = the process of combining the changes from one branch into another branch. Git records the integration in the repository history
-
+branch/feature = adds new functionality
