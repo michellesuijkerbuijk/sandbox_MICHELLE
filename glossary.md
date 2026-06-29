@@ -5,3 +5,4 @@ merge = the process of combining the changes from one branch into another branch
 branch/feature = adds new functionality
 branch/hotfix = urgent production fix
 reset = to undo a commit and walk back in time
+Bad Definition
