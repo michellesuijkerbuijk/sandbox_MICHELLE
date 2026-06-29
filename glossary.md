@@ -6,3 +6,4 @@ branch/feature = adds new functionality
 branch/hotfix = urgent production fix
 reset = to undo a commit and walk back in time
 revert = creates new commit to reverse changes introduced by earlier commit
+remote = connection between local and remote repository
