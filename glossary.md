@@ -3,4 +3,4 @@ version control = a system that records changes to a file or set of files over t
 branch = an independent line of development within a Git repository. Each branch can contain its own commits and changes without affecting other branches
 merge = the process of combining the changes from one branch into another branch. Git records the integration in the repository history
 branch/feature = adds new functionality
-branch/test = adding or updating tests
+branch/hotfix = urgent production fix
